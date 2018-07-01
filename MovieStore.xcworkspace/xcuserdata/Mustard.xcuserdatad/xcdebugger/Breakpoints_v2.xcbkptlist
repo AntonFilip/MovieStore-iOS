@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MovieStore/Repositories/OnlineMovieRepository.swift"
+            timestampString = "551446909.233543"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "23"
+            endingLineNumber = "23"
+            landmarkName = "getAllWhere(name:completion:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Alamofire.DataResponse&lt;Any&gt;) -&gt; () in MovieStore.OnlineMovieRepository.getAllWhere(name: Swift.String, completion: (Swift.Optional&lt;MovieStore.MoviesViewModel&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "MovieStore"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Mustard/Library/Autosave%20Information/MovieStore/MovieStore/Repositories/OnlineMovieRepository.swift"
+                  timestampString = "551446957.0207551"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "23"
+                  endingLineNumber = "23"
+                  offsetFromSymbolStart = "796">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Dictionary&lt;Swift.String, Any&gt;) -&gt; Swift.Optional&lt;MovieStore.Movie&gt; in closure #1 (Alamofire.DataResponse&lt;Any&gt;) -&gt; () in MovieStore.OnlineMovieRepository.getAllWhere(name: Swift.String, completion: (Swift.Optional&lt;MovieStore.MoviesViewModel&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "MovieStore"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Mustard/Library/Autosave%20Information/MovieStore/MovieStore/Repositories/OnlineMovieRepository.swift"
+                  timestampString = "551446957.022926"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "24"
+                  endingLineNumber = "24"
+                  offsetFromSymbolStart = "14">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MovieStore/ViewControllers/SearchViewController.swift"
+            timestampString = "552180381.367255"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "52"
+            endingLineNumber = "52"
+            landmarkName = "textFieldShouldReturn(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MovieStore/ViewControllers/SearchViewController.swift"
+            timestampString = "552180381.367366"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "27"
+            endingLineNumber = "27"
+            landmarkName = "init(movieRepository:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MovieStore/ViewControllers/SearchViewController.swift"
+            timestampString = "552180381.367456"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "30"
+            endingLineNumber = "30"
+            landmarkName = "init(movieRepository:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MovieStore/ViewControllers/SearchViewController.swift"
+            timestampString = "552180381.367581"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "50"
+            endingLineNumber = "50"
+            landmarkName = "textFieldShouldReturn(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MovieStore.SearchViewController.textFieldShouldReturn(__ObjC.UITextField) -&gt; Swift.Bool"
+                  moduleName = "MovieStore"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Mustard/Library/Autosave%20Information/MovieStore/MovieStore/ViewControllers/SearchViewController.swift"
+                  timestampString = "551446909.4781621"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "50"
+                  endingLineNumber = "50"
+                  offsetFromSymbolStart = "58">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;MovieStore.MoviesViewModel&gt;) -&gt; () in MovieStore.SearchViewController.textFieldShouldReturn(__ObjC.UITextField) -&gt; Swift.Bool"
+                  moduleName = "MovieStore"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Mustard/Library/Autosave%20Information/MovieStore/MovieStore/ViewControllers/SearchViewController.swift"
+                  timestampString = "551446909.483181"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "51"
+                  endingLineNumber = "51"
+                  offsetFromSymbolStart = "22">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
